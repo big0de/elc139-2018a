@@ -15,7 +15,7 @@ Nome: Vinicius Aquino Rodrigues
 | Fabricante e modelo do(s) processador(es)                 |                       |       Intel Core i5-6200U          |
 | Frequência do(s) processador(es)                          |                       |       2.30GHz          |
 | Memória total                                             |                       |          8.00GB       |
-| Tipo(s) de interconexão entre os núcleos/processadores    |                       |                 |
+| Tipo(s) de interconexão entre os núcleos/processadores    |                       |     Quick Path Interconnect            |
 | Desempenho Linpack                                        |                       |                 |
 
 ### Referências

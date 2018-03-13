@@ -8,7 +8,7 @@ Nome: Vinicius Aquino Rodrigues
 | Característica                                            | Computador no TOP500  | Meu computador  |
 | --------------------------------------------------------- | --------------------- | --------------- |
 | Nome/Título                                               |    Government K1 - Lenovo NeXtScale nx360M5, Xeon E5-2680v4 14C 2.4GHz, 10G Ethernet                   |  Asus X555UB               |
-| Imagem (foto, diagrama, screenshot, etc.)                 |  <img src="" width="48">|
+| Imagem (foto, diagrama, screenshot, etc.)                 |  <img src="http://www.top500.org/static//images/Top500_logo.png" width="48"> | <img src="https://images-soubarato.b2w.io/produtos/01/00/item/127745/4/127745481_4GG.jpg" width="48">|
 | Classificação de Flynn                                    |         MIMD              |    MIMD             |
 | Memória: compartilhada, distribuída ou ambas?             |        Compartilhada e Distribuída               |    Compartilhada             |
 | Número total de núcleos de processamento                  |          36.400            |  2                |

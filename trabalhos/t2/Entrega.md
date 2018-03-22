@@ -1,4 +1,4 @@
-Programação Paralela
+Programação Paralela  
 Vinicius Aquino Rodrigues
 
 Sumário
@@ -90,7 +90,7 @@ Com base nas informações fornecidas pelo profiler pode-se considerar que as fu
 
 3. Referências
 
-[1] Code::Blocks, Code::Blocks, http://www.codeblocks.org/
-[2] Wikipedia The Free Encyclopedia, List of performance analysis tools - Wikipedia, https://en.wikipedia.org/wiki/List_of_performance_analysis_tools
-[3] Electric Software Inc, GlowCode - Performance profiler, memory leak detector for C++ C# .NET programmers and QA. Fastest profiler toolset, resource analysis, leak detection for test, tune and optimization, http://www.glowcode.com/index.htm
+[1] Code::Blocks, Code::Blocks, http://www.codeblocks.org/  
+[2] Wikipedia The Free Encyclopedia, List of performance analysis tools - Wikipedia, https://en.wikipedia.org/wiki/List_of_performance_analysis_tools  
+[3] Electric Software Inc, GlowCode - Performance profiler, memory leak detector for C++ C# .NET programmers and QA. Fastest profiler toolset, resource analysis, leak detection for test, tune and optimization, http://www.glowcode.com/index.htm  
 [4] Advanced Micro Devices, GitHub - GPUOpen-Tools/CodeXL: CodeXL is a comprehensive tool suite that enables developers to harness the benefits of CPUs, GPUs and APUs, https://github.com/GPUOpen-Tools/CodeXL

@@ -32,8 +32,8 @@ A tabela abaixo mostra os resultados obtidos:
 
 |Tamanho do vetor|Número de Repetições|Resultado|
 |----------------|--------------------|---------|
-|1000|10|<img src="https://www.dropbox.com/s/lf5m552i2mmx1oz/gprof1000-10.png?dl=0">|
-|10000|10|<img src="https://www.dropbox.com/s/o39da809vj6qcrr/gprof10000-10.png?dl=0">|
+|1000|10|<img src="https://s31.postimg.org/6otombs6z/gprof1000-10.png">|
+|10000|10|<img src="https://s31.postimg.org/3uqj8vxqj/gprof10000-10.png">|
 |100000|100|<img src="https://s31.postimg.org/xmnlo2s9n/gprof100000-100.png">|
 |10000000|100|<img src="https://s31.postimg.org/ormrdkb6z/gprof10000000-100.png">|
 

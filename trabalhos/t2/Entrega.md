@@ -15,6 +15,7 @@ Sumário
 2.3.2 CodeXL  
 3. Referências
 
+
 1. Parte 1 - Usando o gprof
 
 1.1 Ferramentas Utilizadas
@@ -24,6 +25,7 @@ Para esta seção do trabalho, realizada no sistema operacional Windows 10, foi 
 1.2 Testando o profiler gprof
 
 Para realizar o teste do profiler gprof uma opção foi marcada nas configurações de compilação do Code::Blocks como mostra a imagem abaixo:
+
 <img src="https://s31.postimg.org/kii1bash7/codeblocksprofilecode.png">
 
 Após esta etapa foram realizados alguns testes de profiling, através do gprof, com diferentes configurações usando como base o programa dotprod_seq, variando-se nele o tamanho do vetor e o número de repetições.

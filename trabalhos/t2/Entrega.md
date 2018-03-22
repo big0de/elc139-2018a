@@ -15,7 +15,7 @@ Sumário
 2.3.2 CodeXL  
 3. Referências  
 
-1. Parte 1 - Usando o gprof
+<b>1. Parte 1 - Usando o gprof</b>
 
 1.1 Ferramentas Utilizadas
 

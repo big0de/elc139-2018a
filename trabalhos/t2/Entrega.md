@@ -13,8 +13,7 @@ Sumário
 2.3 Testando os profilers  
 2.3.1 GlowCode  
 2.3.2 CodeXL  
-3. Referências
-
+3. Referências  
 
 1. Parte 1 - Usando o gprof
 

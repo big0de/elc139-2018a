@@ -3,16 +3,16 @@ Vinicius Aquino Rodrigues
 
 Sumário
 
-1. Parte 1 - Usando o gprof
-1.1 Ferramentas utilizadas
-1.2 Testando o profiler gprof
-1.3 Considerações sobre os perfis de execução
-2. Parte 2 - Usando outros profilers
-2.1 Profilers selecionados
-2.2 O programa testado
-2.3 Testando os profilers
-2.3.1 GlowCode
-2.3.2 CodeXL
+1. Parte 1 - Usando o gprof  
+1.1 Ferramentas utilizadas  
+1.2 Testando o profiler gprof  
+1.3 Considerações sobre os perfis de execução  
+2. Parte 2 - Usando outros profilers  
+2.1 Profilers selecionados  
+2.2 O programa testado  
+2.3 Testando os profilers  
+2.3.1 GlowCode  
+2.3.2 CodeXL  
 3. Referências
 
 1. Parte 1 - Usando o gprof
@@ -24,7 +24,7 @@ Para esta seção do trabalho, realizada no sistema operacional Windows 10, foi 
 1.2 Testando o profiler gprof
 
 Para realizar o teste do profiler gprof uma opção foi marcada nas configurações de compilação do Code::Blocks como mostra a imagem abaixo:
-<img src="https://www.dropbox.com/s/9ipfmfu56t94aav/codeblocksprofilecode.png?dl=0">
+<img src="https://s31.postimg.org/kii1bash7/codeblocksprofilecode.png">
 
 Após esta etapa foram realizados alguns testes de profiling, através do gprof, com diferentes configurações usando como base o programa dotprod_seq, variando-se nele o tamanho do vetor e o número de repetições.
 

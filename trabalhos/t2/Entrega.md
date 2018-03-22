@@ -1,7 +1,7 @@
 Programação Paralela  
 Vinicius Aquino Rodrigues
 
-Sumário
+<b>Sumário</b>
 
 1. Parte 1 - Usando o gprof  
 1.1 Ferramentas utilizadas  
@@ -42,7 +42,7 @@ A tabela abaixo mostra os resultados obtidos:
 
 De acordo com os perfis de execução obtidos observa-se que as opções de configuração afetam apenas o tempo de execução das funções chamadas no respectivo programa. Além disso baseado nas informações dos perfis pode-se concluir que a função dot_product é uma candidata a paralelização, uma vez que ela é a função de maior custo computacional do programa.
 
-2. Parte 2 - Usando outros profilers
+<b>2. Parte 2 - Usando outros profilers</b>
 
 2.1 Profilers selecionados
 
@@ -89,7 +89,7 @@ Tamanho do vetor: 10000000, número de repetições: 1000
 
 Com base nas informações fornecidas pelo profiler pode-se considerar que as funções normaliza_vetor e calcula_modulo são as mais custosas para o desempenho do programa podendo elas serem paralelizadas.
 
-3. Referências
+<b>3. Referências</b>
 
 [1] Code::Blocks, Code::Blocks, http://www.codeblocks.org/  
 [2] Wikipedia The Free Encyclopedia, List of performance analysis tools - Wikipedia, https://en.wikipedia.org/wiki/List_of_performance_analysis_tools  
